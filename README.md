@@ -49,17 +49,6 @@ I pick up new tools fast and care about the layer under the abstraction.
 
 ---
 
-### 📊 GitHub
-
-<div align="center">
-
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-Matariya&show_icons=true&hide_border=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Matariya&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
-
-</div>
-
----
-
 ### 🧩 Problem solving — the constant
 
 **LeetCode** `y45h_` — contest rating 1489 (peak 1511), 130+ solved  ·  **CodeChef** `y45h` — 2★ (peak 1559)  ·  also on Codeforces  ·  primary language **C++**
